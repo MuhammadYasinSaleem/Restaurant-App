@@ -23,7 +23,7 @@ const reservationschema=new mongoose.Schema({
         type:String,
         required:true,
         minLength:[11,"Phone number must contain 11 numbers"],
-        maxLength:[30,"Phone number must contain 11 numbers"]
+        maxLength:[11,"Phone number must contain 11 numbers"]
     },
     time:{
         type:String,

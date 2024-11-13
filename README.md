@@ -31,7 +31,7 @@ This is a Full Stack Restaurant Reservation App built using the **MERN** stack (
 ```
 ## Live website
 
-[Restaurant Reservation App](https://fitness-exercise-app-nu.vercel.app/)
+[Restaurant Reservation App](https://restaurant-app-three-pink.vercel.app/)
 
 ## Preview
 
